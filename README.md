@@ -2,6 +2,12 @@
 
 <strong><center><h1>Actividad 26</h1></center></strong>
 
+## Integrantes del equipo QA
+ * Fernando Zigarra
+ * Daiana Abal
+ * Gerónimo Tapia
+ * Daniel Zambrana
+
 ## Descripción
 
 ### Actividad Git/Git-hub
