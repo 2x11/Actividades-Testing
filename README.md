@@ -36,7 +36,7 @@ git init
 # Enlazar repositorio con Github
 git remote add origin https://github.com/2x11/Actividades-Testing.git
 
-# Agregar los cambios de manera local
+# Agregar todos los cambios
 git add .
 
 # Commitear los cambios
@@ -44,4 +44,15 @@ git commit -m "nombre del commit"
 
 # Hacer push
 git push origin "nombre de la rama"
+
+# Hacer merge de una rama a la principal
+git merge "nombre de la rama"
 ```
+
+## Pasos:
+1. Iniciamos creando el reposotorio en git-hub.
+2. Agregamos a todo el quipo QA al repositorio.
+3. Clonamos el repositorio.
+4. Cada integrante creó su respectiva rama.
+5. Cada integrante sube los archivos (evidencias/matrices/capturas).
+6. Cada integrante hace un merge a la rama principal (main).
