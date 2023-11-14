@@ -51,8 +51,14 @@ git merge "nombre de la rama"
 
 ## Pasos:
 1. Iniciamos creando el reposotorio en git-hub.
+    <img src="accets/create-repository.png" />
 2. Agregamos a todo el quipo QA al repositorio.
+    <img src="accets/add-people.png" />
 3. Clonamos el repositorio.
+    <img src="accets/clone.png" />
 4. Cada integrante creó su respectiva rama.
+    <img src="accets/branch.png" />
 5. Cada integrante sube los archivos (evidencias/matrices/capturas).
+    <img src="accets/add-files.png" />
 6. Cada integrante hace un merge a la rama principal (main).
+    <img src="accets/merge.png" />
