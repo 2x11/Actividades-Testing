@@ -7,6 +7,7 @@
  * Daiana Abal
  * Gerónimo Tapia
  * Daniel Zambrana
+ * Alen Long
 
 ## Descripción
 
